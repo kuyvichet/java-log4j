@@ -1,0 +1,19 @@
+01-31 14:06:50 DEBUG [TestLog4j] This is debug : myTestLog
+01-31 14:06:50 INFO  [TestLog4j] This is info : myTestLog
+01-31 14:06:50 WARN  [TestLog4j] This is warn : myTestLog
+01-31 14:06:50 ERROR [TestLog4j] This is error : myTestLog
+01-31 14:06:50 FATAL [TestLog4j] This is fatal : myTestLog
+01-31 14:07:05 DEBUG [TestLog4jWithError] This is debug : myTestLog
+01-31 14:07:05 INFO  [TestLog4jWithError] This is info : myTestLog
+01-31 14:07:05 WARN  [TestLog4jWithError] This is warn : myTestLog
+01-31 14:07:05 ERROR [TestLog4jWithError] This is error : myTestLog
+01-31 14:07:05 FATAL [TestLog4jWithError] This is fatal : myTestLog
+01-31 14:07:05 ERROR [TestLog4jWithError] sorry error
+java.lang.ArithmeticException: / by zero
+	at com.rupp.log.TestLog4jWithError.runMe(TestLog4jWithError.java:37)
+	at com.rupp.log.TestLog4jWithError.main(TestLog4jWithError.java:20)
+01-31 14:13:15 DEBUG [TestLog4j] This is debug : myTestLog
+01-31 14:13:15 INFO  [TestLog4j] This is info : myTestLog
+01-31 14:13:15 WARN  [TestLog4j] This is warn : myTestLog
+01-31 14:13:15 ERROR [TestLog4j] This is error : myTestLog
+01-31 14:13:15 FATAL [TestLog4j] This is fatal : myTestLog

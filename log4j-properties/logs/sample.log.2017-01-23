@@ -1,0 +1,5 @@
+01-23 17:25:02 DEBUG [TestLog4j] This is debug : myTestLog
+01-23 17:25:02 INFO  [TestLog4j] This is info : myTestLog
+01-23 17:25:02 WARN  [TestLog4j] This is warn : myTestLog
+01-23 17:25:02 ERROR [TestLog4j] This is error : myTestLog
+01-23 17:25:02 FATAL [TestLog4j] This is fatal : myTestLog

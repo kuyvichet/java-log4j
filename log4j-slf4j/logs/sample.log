@@ -1,0 +1,31 @@
+01-31 15:36:43,610 INFO  [TestLog4jWithError] This is info : myTestLog
+01-31 15:36:43,612 WARN  [TestLog4jWithError] This is warn : myTestLog
+01-31 15:36:43,612 ERROR [TestLog4jWithError] This is error : myTestLog
+01-31 15:36:43,612 FATAL [TestLog4jWithError] This is fatal : myTestLog
+01-31 15:36:43,612 ERROR [TestLog4jWithError] sorry error
+java.lang.ArithmeticException: / by zero
+	at com.rupp.log.TestLog4jWithError.runMe(TestLog4jWithError.java:37)
+	at com.rupp.log.TestLog4jWithError.main(TestLog4jWithError.java:20)
+01-31 15:40:35,070 INFO  [TestLog4jWithError] This is info : myTestLog
+01-31 15:40:35,071 WARN  [TestLog4jWithError] This is warn : myTestLog
+01-31 15:40:35,071 ERROR [TestLog4jWithError] This is error : myTestLog
+01-31 15:40:35,071 FATAL [TestLog4jWithError] This is fatal : myTestLog
+01-31 15:40:35,072 ERROR [TestLog4jWithError] sorry error
+java.lang.ArithmeticException: / by zero
+	at com.rupp.log.TestLog4jWithError.runMe(TestLog4jWithError.java:37)
+	at com.rupp.log.TestLog4jWithError.main(TestLog4jWithError.java:20)
+01-31 15:40:49,232 INFO  [TestLog4jWithError] This is info : myTestLog
+01-31 15:40:49,234 WARN  [TestLog4jWithError] This is warn : myTestLog
+01-31 15:40:49,234 ERROR [TestLog4jWithError] This is error : myTestLog
+01-31 15:40:49,234 FATAL [TestLog4jWithError] This is fatal : myTestLog
+01-31 15:40:49,234 ERROR [TestLog4jWithError] sorry error
+java.lang.ArithmeticException: / by zero
+	at com.rupp.log.TestLog4jWithError.runMe(TestLog4jWithError.java:37)
+	at com.rupp.log.TestLog4jWithError.main(TestLog4jWithError.java:20)
+01-31 16:09:21,423 INFO  [TestLog4jWithError] This is info : myTestLog
+01-31 16:09:21,425 WARN  [TestLog4jWithError] This is warn : myTestLog
+01-31 16:09:21,425 ERROR [TestLog4jWithError] This is error : myTestLog
+01-31 16:09:21,425 ERROR [TestLog4jWithError] sorry error
+java.lang.ArithmeticException: / by zero
+	at com.rupp.log.TestLog4jWithError.runMe(TestLog4jWithError.java:39)
+	at com.rupp.log.TestLog4jWithError.main(TestLog4jWithError.java:22)
